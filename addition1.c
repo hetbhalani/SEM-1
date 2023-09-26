@@ -1,3 +1,5 @@
+//4A(3) add 2 numbers.
+
 #include<stdio.h>
 
 void main(){
