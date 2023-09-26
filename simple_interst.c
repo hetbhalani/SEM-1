@@ -1,3 +1,5 @@
+//4B(2) find simple interest.
+
 #include<stdio.h>
 
 void main(){
