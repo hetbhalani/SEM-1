@@ -1,3 +1,5 @@
+//4A(4) average of three numbers.
+
 #include<stdio.h>
 
 void main(){
