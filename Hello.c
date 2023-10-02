@@ -1,3 +1,5 @@
+//5A(1) Print given feet into inches. (inches = feet*12)
+
 #include<stdio.h>
 
 void main(){
