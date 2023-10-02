@@ -1,3 +1,5 @@
+//5A(6) Check whether given character is vowel or consonant.
+
 #include<stdio.h>
 
 void main(){
