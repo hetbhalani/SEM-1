@@ -1,3 +1,5 @@
+//6A(1) Perform Addition, Subtraction, Multiplication and Division of 2 numbers as per user’s choice.
+
 #include<stdio.h>
 
 void main(){
