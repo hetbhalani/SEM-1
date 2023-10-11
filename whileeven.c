@@ -3,11 +3,18 @@
 #include<stdio.h>
 void main(){
 
-    int a,b,i=1;
+    int a,b,i;
     printf("enter two numbers : ");
     scanf("%d %d", &a,&b);
 
-    while(i>=a && i<=b){
+    if(a>b){
+        i=b;
+    }
+    else{
+        i=a;
+    }
+
+    while(i<a || i<b){
         if(i%2==0){
             printf("%d\n", i);
         }
